@@ -40,7 +40,7 @@ This project was designed as a **personal UI and animation practice** to improve
 
 ## 🔗 Live Demo
 
-👉 [View on Vercel]([https://movie-app-alpha-six-58.vercel.app/](https://matter-nine.vercel.app/))
+👉 [View on Vercel](https://matter-nine.vercel.app/)
 
 ---
 
