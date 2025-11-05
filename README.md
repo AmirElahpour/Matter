@@ -1,6 +1,6 @@
 # 🎬 Matter App – Landing Page (UI Practice)
 
-A modern, responsive landing page built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.  
+A modern, responsive landing page built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, **Shadcn**.  
 This project was designed as a **personal UI and animation practice** to improve frontend workflow, component structure, and motion design skills.
 
 ---
@@ -33,8 +33,6 @@ This project was designed as a **personal UI and animation practice** to improve
 ## 📷 Preview
 
 ![Landing Page Screenshot](./src/assets/preview.png)
-
-> *(Make sure you have a `preview.png` inside `/src/assets` or update the path if different)*
 
 ---
 
