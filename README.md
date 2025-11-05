@@ -7,7 +7,7 @@ This project was designed as a **personal UI and animation practice** to improve
 
 ## 🚀 Features
 
-- ⚡ Built with **Vite + React** for fast development  
+- ⚡ Built with **Vite + React + typescript** for fast development  
 - 🎨 Styled using **Tailwind CSS** with a custom theme  
 - 🌀 Smooth animations powered by **Framer Motion**  
 - 🧱 Modular and reusable components  
@@ -21,7 +21,7 @@ This project was designed as a **personal UI and animation practice** to improve
 
 | Category | Tech |
 |-----------|------|
-| Framework | React (Vite) |
+| Framework | React (Vite + typescript) |
 | Styling | Tailwind CSS |
 | Animations | Framer Motion |
 | Icons | Lucide React |
